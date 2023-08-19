@@ -7,14 +7,14 @@ Cold Onion Chutney
 Ingredients
 -----------
 
-======= ============================
+======= ===========================
 1       Large onion, finely diced
 3 tbsp  Tomato ketchup
 1 tbsp  Tomato purée
 1 tsp   Chilli powder, or to taste
 Pinch   Salt
 1 tsp   Roasted cumin seeds
-======= ============================
+======= ===========================
 
 Method
 ------
