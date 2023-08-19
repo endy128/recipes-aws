@@ -11,8 +11,8 @@ Ingredients
 1           Small shallot
 1           Tablespoon of butter
 100ml       White wine
-2           Tablespoons of cognac
-2           Tablespoons freshly grinded black peppercorns
+2 tbsp      Cognac
+2 tbsp      Freshly grinded black peppercorns
 50 - 100ml  Heavy whipping cream.
 100ml       Reduced brown beef or veal stock
 =========== =============================================
