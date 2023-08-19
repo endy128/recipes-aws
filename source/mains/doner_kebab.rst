@@ -22,7 +22,7 @@ Ingredients
 Method
 -------
 
-1. Preheat the oven to 350 degrees F (175 degrees C).
+1. Preheat the oven to 175 °C.
 2. Combine flour, oregano, salt, garlic powder, onion powder, Italian seasoning, black pepper, and cayenne pepper in a large bowl. Add ground lamb and knead until thoroughly mixed together, about 3 minutes.
 3. Shape seasoned lamb mixture and place into a loaf pan; set on top of a baking sheet.
 4. Bake in the preheated oven, turning halfway to ensure even browning, for about 1 hour and 20 minutes.
