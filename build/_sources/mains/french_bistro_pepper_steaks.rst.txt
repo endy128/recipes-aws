@@ -1,22 +1,22 @@
 French Bistro Pepper Steak
 ==========================
 
+**Serves 2**
+
 Ingredients
 -----------
 
-**Serves 2**
-
 =========== =============================================
-2           steaks (prime cuts) of your choice 
-1           small shallot
-1           tablespoon of butter
-100ml       white wine
-2           tablespoons of cognac
-2           tablespoons freshly grinded black peppercorns
-50 - 100ml  heavy whipping cream.
-100ml       reduced brown beef or veal stock
+2           Steaks (prime cuts) of your choice 
+1           Small shallot
+1           Tablespoon of butter
+100ml       White wine
+2           Tablespoons of cognac
+2           Tablespoons freshly grinded black peppercorns
+50 - 100ml  Heavy whipping cream.
+100ml       Reduced brown beef or veal stock
 =========== =============================================
-
+ 
 
 Method
 ------

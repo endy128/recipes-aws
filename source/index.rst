@@ -1,13 +1,40 @@
 Welcome to Home Recipes!
 ==========================
 
+Short intro if needed...
+
 .. toctree::
    :titlesonly:
-   :caption: Contents:
-   :hidden:
+   :caption: Starters
+   :glob:
 
-   mains/french_bistro_pepper_steaks
+   starters/*
+
+.. toctree::
+   :titlesonly:
+   :caption: Mains
+   :glob:
+
+   mains/*
+
+.. toctree::
+   :titlesonly:
+   :caption: Desserts
+   :glob:
+
+   desserts/*
 
 
-New Recipes
-------------
+.. toctree::
+   :titlesonly:
+   :caption: Sides
+   :glob:
+
+   sides/*
+
+.. toctree::
+   :titlesonly:
+   :caption: Others
+   :glob:
+
+   others/*
