@@ -21,6 +21,6 @@ Ingredients
 Method
 ------
 
-1. Heat bear and mix sodium citrate well
+1. Heat beer and mix sodium citrate well
 2. Add cheese and combine. 
 
