@@ -10,7 +10,7 @@ Ingredients
 250g   Clarified butter
 4      Egg yolks
 20ml   Water
-1/2    The juice of a lemon (not limes)
+1/4    The juice of a lemon (not limes)
 Pinch  Salt for seasoning
 Pinch  Cayenne pepper (optional)
 =====  ======================================
