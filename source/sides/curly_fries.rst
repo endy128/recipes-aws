@@ -6,7 +6,7 @@ Curly Fries
 Ingredients
 -----------
 
-========= ===================================
+========= ==================================
 1/2 cup   Flour
 2 tsp     Salt
 1 tsp     Onion powder
@@ -15,7 +15,7 @@ Ingredients
 2 tbsp    Paprika
 1 cup     Water - or less
 3-5       Russet potatoes / or frozen fries
-========= ===================================
+========= ==================================
 
 Method
 ------
