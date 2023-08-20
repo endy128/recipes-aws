@@ -18,18 +18,13 @@ jobs:
     needs: build_docs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Sync to S3
-        uses: raulanatol/aws-s3-docker-action@master
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: ${{ secrets.S3_BUCKET_REGION }}
-          AWS_BUCKET_NAME: ${{ secrets.S3_BUCKET }}
-          SOURCE: build/
-          TARGET: 
-          WITH_DELETE: false
-          WITH_CLOUD_FRONT_INVALIDATION: true
-          AWS_CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
-          AWS_CLOUDFRONT_INVALIDATION_PATH: /
+    - uses: actions/checkout@master
+    - uses: jakejarvis/s3-sync-action@master
+      with:
+        args: --follow-symlinks --delete --exclude '.git/*'
+      env:
+        AWS_S3_BUCKET: ${{ secrets.S3_BUCKET_REGION }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_REGION: ${{ secrets.S3_BUCKET_REGION }}
+        SOURCE_DIR: 'build'      # optional: defaults to entire repository
