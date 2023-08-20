@@ -1,24 +1,15 @@
-name: "Pull Request Docs Check"
-
-on: 
+name: "Deploy to AWS s3 bucket on PR merge"
+on:
   pull_request:
-  workflow_dispatch:
+    types:
+      - closed
 
 jobs:
-  build_docs:
+  deploy_s3:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - uses: ammaraskar/sphinx-action@master
-      with:
-        docs-folder: "."
-        build-command: "sphinx-build -b html source/ build/"
-
-  # deploy_s3:
-  #   needs: build_docs
-  #   runs-on: ubuntu-latest
-  #   steps:
-    # - uses: actions/checkout@v1
     - uses: jakejarvis/s3-sync-action@master
       with:
         args: --follow-symlinks --delete --exclude '.git/*'
