@@ -18,7 +18,7 @@ jobs:
   #   needs: build_docs
   #   runs-on: ubuntu-latest
   #   steps:
-    - uses: actions/checkout@v1
+    # - uses: actions/checkout@v1
     - uses: jakejarvis/s3-sync-action@master
       with:
         args: --follow-symlinks --delete --exclude '.git/*'
