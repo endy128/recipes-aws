@@ -14,10 +14,10 @@ jobs:
         docs-folder: "."
         build-command: "sphinx-build -b html source/ build/"
 
-  deploy_s3:
-    needs: build_docs
-    runs-on: ubuntu-latest
-    steps:
+  # deploy_s3:
+  #   needs: build_docs
+  #   runs-on: ubuntu-latest
+  #   steps:
     - uses: actions/checkout@master
     - uses: jakejarvis/s3-sync-action@master
       with:
