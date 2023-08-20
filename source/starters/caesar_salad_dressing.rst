@@ -6,15 +6,15 @@ Caesar Salad Dressing
 Ingredients
 -----------
 
-==========  ====================================
+==========  ======================================
 5           Anchovy fillets, chopped
 sm. splash  Of red wine vinegar
 1           Large egg yolk 
-75% size    Dijon mustard (compared to egg yolk)
+75% size    Dijon mustard **compared to egg yolk**
 1 minced    Garlic clove
 125ml       Or less vegetable oil
 15g         Grated Parmigiano-Reggiano
-==========  ====================================
+==========  ======================================
 
 Method 
 ------

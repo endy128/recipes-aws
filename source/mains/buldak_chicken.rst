@@ -27,7 +27,7 @@ Method
 ------
 
 1. Combine the hot pepper flakes, Gochujang, soy sauce, tbsp vegetable oil, ground black pepper, rice syrup, garlic and ginger in a bowl. Mix it well into a sweet and spicy paste.
-2. Add the chicken and mix well by hand.
+2. Add the chicken and mix well by hand
 3. Heat up the skillet with 1 tbsp vegetable oil. Add the sliced rice cakes and fry them for a few minutes. Turn them over with a spatula once or twice until both sides are crispy and light golden brown.
 4. Place the marinated chicken into a heavy pan, preferably cast iron. Use the water to rinse the bowl and get the last of the sauce into the pan. Cover and cook over medium high heat for 10 minutes. If you use a normal frying pan, it will take 7-8 minutes. Be sure not to burn the chicken.
 5. Uncover, stir and turn over the chicken with a wooden spoon. Add the rice cakes to the top of the chicken.
