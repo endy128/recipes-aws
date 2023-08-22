@@ -1,5 +1,5 @@
-Buldak Chicken (Fire Chicken with Cheese)
-=========================================
+Buldak Chicken with Cheese
+==========================
 
 **Serves 4**
 

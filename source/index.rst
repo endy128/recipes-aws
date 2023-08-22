@@ -3,6 +3,15 @@ Welcome to Home Recipes!
 
 Short intro if needed...
 
+
+
+.. toctree::
+   :titlesonly:
+   :caption: Breakfast
+   :glob:
+
+   breakfast/*
+
 .. toctree::
    :titlesonly:
    :caption: Starters
