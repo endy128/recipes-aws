@@ -16,7 +16,7 @@ jobs:
         docs-folder: "."
         build-command: "sphinx-build -b html source/ build/"
         
-    - uses: jakejarvis/s3-sync-action@master
+    - uses: kefranabg/s3-sync-action@master
       with:
         args: --follow-symlinks --delete --exclude '.git/*'
       env:
@@ -25,3 +25,4 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_REGION: ${{ secrets.S3_BUCKET_REGION }}
         SOURCE_DIR: 'build'      # optional: defaults to entire repository
+        DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
