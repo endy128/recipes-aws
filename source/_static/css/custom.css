@@ -7,3 +7,8 @@ body > div > nav > div > div.wy-side-nav-search > a > img {
 /* .rst-content table.docutils td:first-child, .rst-content table.docutils th:first-child, .rst-content table.field-list td:first-child, .rst-content table.field-list th:first-child, .wy-table td:first-child, .wy-table th:first-child {
   text-align: right !important;
 } */
+
+/* adds space below each list item under the 'method' */
+#method > ol > li > p {
+  margin-bottom: 1em;
+}
