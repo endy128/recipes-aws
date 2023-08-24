@@ -2,7 +2,8 @@ Cold Onion Chutney
 ==================
 
 
-**Serves 2**
+Serves 2
+--------
 
 Ingredients
 -----------

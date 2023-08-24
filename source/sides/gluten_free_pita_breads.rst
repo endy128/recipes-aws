@@ -1,7 +1,9 @@
 Gluten Free Pita Breads
 ========================
 
-**Serves ??**
+Serves ??
+---------
+
 
 Ingredients
 ------------

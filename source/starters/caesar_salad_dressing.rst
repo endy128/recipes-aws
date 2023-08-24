@@ -1,7 +1,9 @@
 Caesar Salad Dressing
 =====================
 
-**Serves 2**
+Serves 2
+--------
+
 
 Ingredients
 -----------

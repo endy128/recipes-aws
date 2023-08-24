@@ -1,7 +1,9 @@
 Hollondaise
 ===========
 
-**Serves 4**
+Serves 4
+--------
+
 
 Ingredients
 -----------
