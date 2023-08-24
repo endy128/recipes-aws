@@ -1,7 +1,9 @@
 Buldak Chicken with Cheese
 ==========================
 
-**Serves 4**
+Serves 4
+--------
+
 
 
 Ingredients

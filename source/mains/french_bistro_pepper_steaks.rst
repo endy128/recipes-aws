@@ -1,7 +1,8 @@
 French Bistro Pepper Steak
 ==========================
 
-**Serves 2**
+Serves 2
+--------
 
 Ingredients
 -----------
