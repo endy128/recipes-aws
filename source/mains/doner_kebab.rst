@@ -28,10 +28,10 @@ Chilli Sauce
 
 ====== ============================
 ½ can  Chopped tomatoes
-½ tbsp ketchup
-½      small onion
-1      Garlic clove
-1-4    Red chillies
+½ tbsp Ketchup
+½      Small onion, diced
+1      Garlic clove, minced
+1-4    Red chillies, diced
 Pinch  Sugar
 ½ tbsp White wine vinegar
 ====== ============================
