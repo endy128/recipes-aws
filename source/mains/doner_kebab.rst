@@ -8,6 +8,9 @@ Serves 2
 Ingredients
 ------------
 
+Keebab
+""""""
+
 ====== ============================
 1 tsp  All-purpose flour
 1 tsp  Dried oregano
@@ -20,9 +23,25 @@ Ingredients
 500g   Pounds ground lamb
 ====== ============================
 
+Chilli Sauce
+""""""""""""
+
+====== ============================
+½ can  Chopped tomatoes
+½ tbsp ketchup
+½      small onion
+1      Garlic clove
+1-4    Red chillies
+Pinch  Sugar
+½ tbsp White wine vinegar
+====== ============================
+
 
 Method
--------
+------
+
+Keebab
+""""""
 
 1. Preheat the oven to 180 °C.
 2. Combine flour, oregano, salt, garlic powder, onion powder, Italian seasoning, black pepper, and cayenne pepper in a large bowl. Add ground lamb and knead until thoroughly mixed together, about 3 minutes.
@@ -31,3 +50,8 @@ Method
 5. Blow torch for the flame grilled flavour.
 6. Wrap loaf in aluminum foil and let rest for about 10 minutes. Slice as thinly as possible to make doner kebab pieces.
 
+
+Chilli Sauce 
+""""""""""""
+
+Either mix everything together and blend or cook the onions and garlic, mix everything else, blend and cool.
