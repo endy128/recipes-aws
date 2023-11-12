@@ -1,7 +1,7 @@
 Doner Kebab
 ============
 
-Serves 4
+Serves 2
 --------
 
 
@@ -17,16 +17,17 @@ Ingredients
 ½ tsp  Dried Italian herb seasoning
 ¼ tsp  Ground black pepper
 ¼ tsp  Cayenne pepper
-1 ¼    Pounds ground lamb
+500g   Pounds ground lamb
 ====== ============================
 
 
 Method
 -------
 
-1. Preheat the oven to 175 °C.
+1. Preheat the oven to 180 °C.
 2. Combine flour, oregano, salt, garlic powder, onion powder, Italian seasoning, black pepper, and cayenne pepper in a large bowl. Add ground lamb and knead until thoroughly mixed together, about 3 minutes.
-3. Shape seasoned lamb mixture and place into a loaf pan; set on top of a baking sheet.
-4. Bake in the preheated oven, turning halfway to ensure even browning, for about 1 hour and 20 minutes.
-5. Wrap loaf in aluminum foil and let rest for about 10 minutes. Slice as thinly as possible to make doner kebab pieces.
+3. Shape seasoned lamb mixture into a 2cm high flat sheet of lamb and place on baking paper on a baking tray.
+4. Bake in the preheated oven, turning halfway to ensure even browning, for about 20 - 30 minutes.
+5. Blow torch for the flame grilled flavour.
+6. Wrap loaf in aluminum foil and let rest for about 10 minutes. Slice as thinly as possible to make doner kebab pieces.
 
