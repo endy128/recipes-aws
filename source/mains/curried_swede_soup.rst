@@ -8,7 +8,7 @@ Serves 2
 Ingredients
 ------------
 
-======  ============================
+======= ============================
 2 tbsp  olive oil
 30g     butter
 1       onion, sliced
@@ -22,8 +22,8 @@ Ingredients
 800g    swede, peeled and chopped into 3cm pieces
 1.8     litre vegetable or chicken stock
 50ml    double cream
-yogurt and chilli flakes, to serve
-====== ============================
+yogurt  and chilli flakes, to serve
+======= ============================
 
 
 Method
