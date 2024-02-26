@@ -1,7 +1,7 @@
 Curried swede soup
 ==================
 
-Serves 2
+Serves 4
 --------
 
 
