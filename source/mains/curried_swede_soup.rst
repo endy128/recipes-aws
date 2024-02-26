@@ -9,7 +9,7 @@ Ingredients
 ------------
 
 ======  ============================
-2       tbsp olive oil
+2 tbsp  olive oil
 30g     butter
 1       onion, sliced
 2       celery sticks, finely chopped
