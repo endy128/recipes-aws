@@ -26,7 +26,7 @@ Method
 6. Remove the lid and cook until water has all evaporated
 7. Add 1 tbsp of oil, if needed
 8. Cook for 2-3 more minutes, when the bottoms are golden brown they are done
-9. Remove and server with the crispy side facing up
+9. Remove and serve with the crispy side facing up
 
 .. tip:: 
     A basic dipping sauce is 1:1 soy sauce to vinegar and some chilli oil
