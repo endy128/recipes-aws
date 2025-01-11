@@ -1,4 +1,4 @@
-Curried swede soup
+Curried Swede Soup
 ==================
 
 Serves 4
