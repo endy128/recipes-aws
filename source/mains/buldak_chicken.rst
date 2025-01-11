@@ -10,19 +10,19 @@ Ingredients
 -----------
 
 ==============  ==========================================
-2               chicken breast, cut into 1 inch cubes
-1/2 cup         hot pepper flakes
+2               Chicken breast, cut into 1 inch cubes
+1/2 cup         Hot pepper flakes
 2-3 tbsp        Gochujang (hot pepper paste)
-1 tbsp          soy sauce
-3 tbsp          vegetable oil
-1/2 tsp         ground black pepper
-1/3 cup         rice syrup
-6 large         garlic cloves, minced
-2 tsp           ginger, minced
-1 pound         mozzarella cheese/ mild cheddar cheese mix
-1 cup           sliced rice cake (optional)
-Spring onions   chopped for garnish
-1/4 cup         water
+1 tbsp          Soy sauce
+3 tbsp          Vegetable oil
+1/2 tsp         Ground black pepper
+1/3 cup         Rice syrup
+6 large         Garlic cloves, minced
+2 tsp           Ginger, minced
+1 pound         Mozzarella cheese/ mild cheddar cheese mix
+1 cup           Sliced rice cake (optional)
+Spring onions   Chopped for garnish
+1/4 cup         Water
 ==============  ==========================================
 
 Method
