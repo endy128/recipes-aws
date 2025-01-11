@@ -21,14 +21,13 @@ Cream
 Pastry
 """"""
 
-====== ======================================
-250g   Plain flour (Doves farm GF plain)
-25g    Icing sugar
-125g   Chilled unsalted butter, diced finely
-zest   Of 1 orange, grated
-1      Medium egg, lightly beaten
-1-3tsp Ice-cold water (if needed)
-====== ======================================
+====== ================================================
+300g   Gluten-free plain flour, plus extra for dusting
+1½ tsp Xanthan gum
+145g   Very cold butter, cut into 1cm cubes
+3 tbsp Caster sugar
+2 lrg  Free-range eggs, beaten
+====== ================================================
 
 Method
 -------
@@ -45,13 +44,9 @@ Cream
 Pastry
 """"""
 
-1. For the pastry, put the flour, icing sugar, butter and orange zest into a food processor and whizz into fine crumbs. With the motor running, add the egg and whizz for a few seconds until the mixture forms clumps and you can press it together into a ball. (If necessary, add 1–3 tsp ice-cold water to bring the dough together.)
-2. Turn onto a very lightly floured surface and knead briefly until smooth.
-3. Wrap in cling film and chill for at least 30 minutes, or until firm. (The pastry can be made up to 3 days ahead or frozen for up to a month.)
-4. Roll out the pastry on a lightly floured surface to the thickness of a £1 coin. Using an 8cm fluted cutter, cut out 24 rounds and use to line two 12-hole non-stick mince pie tins.
-5. Re-roll the trimmings to the same thickness and stamp out 24 stars or Christmas trees, with an appropriate cutter, for the tops. Put a dessertspoonful (2 tsp) filling into each pastry case, then press the tops in position.
-6. Chill for at least 20 minutes. Meanwhile, preheat the oven to 180°C/Gas 4.
-7. Brush the tops with the egg-wash, then bake the mince pies for 15-20 minutes until the pastry is golden and crisp. Let cool for a few minutes before removing from the tins and transferring to a wire rack to cool.
-8. Store an airtight container for up to 1 week. Warm slightly before serving, with a dusting of sugar.
+1. For the pastry, mix the flour and xanthan gum together in a large mixing bowl. Add the very cold butter cubes to the bowl and mix it into the flour. Using your fingertips, rub the butter into the flour to form a breadcrumb-like consistency. Stir in the sugar.
+2. Add the beaten egg to the bowl and, using a knife, carefully cut it into the mixture until it comes together. It should form a ball and not be crumbly - it will be a little sticky to touch, but not unmanageable. Wrap the dough in cling film and leave to chill in the fridge for around 1 hour before using.
+3. Preheat the oven to 200C/180C Fan/Gas 6. Lightly grease a 12-hole muffin or cupcake tin. Remove the pastry from the fridge. If the dough feels really firm, leave it out at room temperature briefly before attempting to roll it.
+4. Lightly flour a rolling pin. Roll the dough out to a 3mm/⅛in thickness on a large sheet of baking paper (aim to roll out a large rectangle). Remember not to handle the dough excessively as you work with it, as this will warm it up and make it more fragile. Use a 9cm/3½in circular biscuit cutter to cut out 12 circles for the base of the mince pies. Carefully ease them into the holes on the pre-greased muffin or cupcake tin, pressing them in gently. Spoon around 1-2 tsp mincemeat into each hole
 
 
